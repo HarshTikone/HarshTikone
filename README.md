@@ -317,29 +317,13 @@ proficiency = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshTikone&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<a href="https://github.com/HarshTikone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshTikone&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Harsh's GitHub Stats"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTikone&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-<a href="https://github.com/HarshTikone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTikone&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshTikone&theme=radical&hide_border=true)
 
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshTikone&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarshTikone&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshTikone&theme=radical&no-frame=true&row=1&column=7)
 
 ---
 
