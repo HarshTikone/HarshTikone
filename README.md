@@ -9,7 +9,7 @@
 
 📍 **Buffalo, NY** | 📧 **harshtikonehs28@gmail.com** | 📱 **(716) 416-1170**
 
-💼 **Open to Summer 2026 Internships** | ML Engineer • Data Scientist • AI Engineer
+💼 **Open to Summer 2026 Internships** | AI Engineer • Data Scientist • ML Engineer
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a **Machine Learning Engineer** pursuing my **Master's in Engineering Science (AI)** at the University at Buffalo (GPA: **3.83/4.0**). I specialize in building **production-grade ML systems**—from recommendation engines and computer vision pipelines to GenAI applications and distributed data engineering workflows.
+I'm a **AI Engineer** pursuing my **Master's in Engineering Science (AI)** at the University at Buffalo (GPA: **3.83/4.0**). I specialize in building **production-grade ML systems**—from recommendation engines and computer vision pipelines to GenAI applications and distributed data engineering workflows.
 
 With hands-on experience at **Tata Consultancy Services (TCS)** and **Kirana Friends**, I've delivered measurable impact: reducing operational costs by **30%**, cutting manual verification time by **60%**, and optimizing ETL pipelines for scale.
 
@@ -224,8 +224,8 @@ proficiency = {
 ## 🎯 Target Roles & Industries
 
 ### **Ideal Positions**
-- 🤖 **Machine Learning Engineer** - Building production ML systems
 - 🧠 **AI Engineer** - Developing intelligent applications
+- 🤖 **Machine Learning Engineer** - Building production ML systems
 - 📊 **Data Scientist** - Extracting insights from complex datasets  
 - 🔬 **Applied ML Engineer** - Solving real-world problems with ML
 
