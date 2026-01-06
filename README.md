@@ -96,143 +96,6 @@ class HarshTikone:
 
 ---
 
-### 🛒 **Kirana Friends (TRRAIN Circle Technologies)** | AI & ML Intern
-*Mumbai, India | Apr 2024 - Jul 2024*
-
-**🏪 Shelf Analytics & Inventory Intelligence**
-- Developed **CNN-based shelf analytics system** for **300k+ SKUs** across **30+ categories**
-- Enabled automated product classification and real-time inventory insights
-- Built computer vision pipeline for retail optimization and trend detection
-
----
-
-## 🎯 Featured Projects
-
-### 🎬 **Hybrid Movie Recommendation System (LightGCN)**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](https://github.com/HarshTikone/Moviematch) [![Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](link)
-
-> Graph Neural Network-based recommendation engine trained on **30M+ user-item interactions**
-
-**🎯 Key Achievements:**
-- **+12% Recall@10** improvement over matrix factorization baseline
-- **Recall@10: 0.38 | NDCG@10: 0.21** on held-out test set
-- Hybrid architecture combining collaborative filtering with content features (genres, metadata embeddings)
-- Deployed interactive Streamlit demo for real-time recommendations
-
-**🛠️ Tech Stack:** `PyTorch` • `LightGCN` • `Graph Neural Networks` • `Streamlit` • `Collaborative Filtering` • `Ranking Metrics`
-
-**📊 Impact:** Demonstrated production-ready ranking system with measurable improvements in recommendation quality
-
----
-
-### 📰 **Personalized News Recommendation System (PySpark)**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](link)
-
-> Distributed recommendation engine processing large-scale user interactions with Apache Spark
-
-**🎯 Key Achievements:**
-- **35% reduction** in batch runtime through optimized Spark joins and partitioning
-- Processed **50k+ articles** and **1.2M+ user events** via scalable ETL pipelines
-- **+9% NDCG@10** improvement over baseline popularity model
-- Compared 3 ranking approaches: baseline popularity, content-based, implicit-feedback ALS
-
-**🛠️ Tech Stack:** `PySpark` • `Apache Spark` • `ALS` • `ETL Pipelines` • `Collaborative Filtering` • `Distributed Computing`
-
-**📊 Impact:** Production-ready distributed ML system demonstrating data engineering expertise at scale
-
----
-
-### 📚 **RAG Document Q&A Assistant with Citations**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](link)
-
-> Production-grade RAG pipeline enabling intelligent document Q&A with source attribution and quality evaluation
-
-**🎯 Key Achievements:**
-- Improved answer accuracy from **60% → 78%** on 50-question benchmark
-- Returns **2-3 source citations** per response for transparency and trust
-- Optimized chunking strategy (**300-500 tokens**) for semantic coherence
-- Built custom evaluation framework for quality monitoring
-
-**🛠️ Tech Stack:** `LangChain` • `FAISS` • `Chroma` • `Vector Databases` • `FastAPI` • `OpenAI/Anthropic APIs` • `Embeddings`
-
-**📊 Impact:** Demonstrated GenAI engineering skills with measurable quality improvements and production-ready architecture
-
----
-
-### 🤖 **GenAI-Powered Content Generator**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](link)
-
-> Enterprise-grade FastAPI service with multiple endpoints, authentication, and structured outputs
-
-**🎯 Key Achievements:**
-- Built **6 FastAPI endpoints**: summarize, extract, rewrite, Q&A, batch processing, classification
-- Implemented **JWT authentication** and request validation for enterprise security
-- Created **20+ prompt templates** with structured JSON outputs
-- Reduced **formatting errors by 60%** through automated quality checks
-- Successfully handled **1,000+ test API calls** with robust error handling
-
-**🛠️ Tech Stack:** `FastAPI` • `LLMs` • `JWT Auth` • `Docker` • `Prompt Engineering` • `JSON Schema` • `REST APIs`
-
-**📊 Impact:** Production-ready GenAI service demonstrating API design and LLM integration expertise
-
----
-
-### 📊 **Operation Analytics & Investigating Metric Spike**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](https://github.com/HarshTikone/Operation-Analytics-and-Investigating-Metric-Spike)
-
-> Advanced SQL analytics for investigating user engagement anomalies and growth metrics
-
-**🎯 Key Features:**
-- Root cause analysis for metric spikes and anomalies
-- Cohort analysis for user retention insights
-- Weekly/monthly active user trend analysis
-- A/B test statistical validation
-
-**🛠️ Tech Stack:** `Advanced SQL` • `PostgreSQL` • `Window Functions` • `CTEs` • `Statistical Analysis`
-
-**📊 Impact:** Demonstrated strong SQL and analytical thinking skills for data-driven decision making
-
----
-
-### 📱 **Instagram User Analytics**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](https://github.com/HarshTikone/Instagram-User-Analytics)
-
-> SQL-based social media analytics examining engagement patterns and user behavior
-
-**🎯 Key Features:**
-- User engagement metrics and growth analytics
-- Cohort-based retention analysis
-- Content performance analysis
-- Follower growth patterns
-
-**🛠️ Tech Stack:** `SQL` • `PostgreSQL` • `Data Analysis` • `Engagement Metrics`
-
----
-
-### 📊 **Hiring Process Analytics**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](https://github.com/HarshTikone/Hiring-Process-Analytics)
-
-> Statistical analysis of recruitment data to optimize talent acquisition
-
-**🎯 Key Features:**
-- Hiring trends and rejection pattern analysis
-- Department-wise recruitment statistics
-- Time-to-hire optimization insights
-- Statistical hypothesis testing
-
-**🛠️ Tech Stack:** `Python` • `Pandas` • `Matplotlib` • `Seaborn` • `Statistical Testing`
-
----
-
-### 📈 **Data Analytics Process**
-[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat&logo=github)](https://github.com/HarshTikone/Data-Analytics-Process)
-
-> Comprehensive framework demonstrating end-to-end data analytics lifecycle
-
-**🛠️ Tech Stack:** `Python` • `Jupyter` • `Data Visualization` • `EDA`
-
----
-
 ## 🛠️ Technical Skills
 
 ### **Core Machine Learning**
@@ -292,7 +155,6 @@ proficiency = {
 <div align="center">
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -324,7 +186,6 @@ proficiency = {
 ![GitHub Streak](https://streak-stats.demolab.com?user=HarshTikone&theme=radical&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshTikone&theme=radical&no-frame=true&row=1&column=6)
-
 
 ---
 
@@ -364,8 +225,8 @@ proficiency = {
 
 ### **Ideal Positions**
 - 🤖 **Machine Learning Engineer** - Building production ML systems
-- 📊 **Data Scientist** - Extracting insights from complex datasets  
 - 🧠 **AI Engineer** - Developing intelligent applications
+- 📊 **Data Scientist** - Extracting insights from complex datasets  
 - 🔬 **Applied ML Engineer** - Solving real-world problems with ML
 
 ### **Industries of Interest**
