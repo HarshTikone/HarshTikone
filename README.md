@@ -173,20 +173,7 @@ proficiency = {
 - **Programming:** Object-Oriented Programming, Design Patterns, Code Reviews
 - **Version Control:** Git, GitHub, Pull Requests, Collaboration workflows
 - **Documentation:** Technical writing, API documentation, Code comments
-
----
-
-## 📊 GitHub Analytics
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshTikone&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTikone&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HarshTikone&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshTikone&theme=radical&no-frame=true&row=1&column=6)
-
+- 
 ---
 
 ## 💡 Core Competencies
