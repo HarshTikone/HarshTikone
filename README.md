@@ -27,7 +27,7 @@ class HarshTikone:
         self.role = "Machine Learning Engineer"
         self.education = {
             "masters": "MS Engineering Science (AI) @ UB (GPA: 3.875/4.0)",
-            "bachelors": "B.Tech AI & ML @ Mumbai (GPA: 3.82/4.0)"
+            "bachelors": "B.Tech AI & ML @ Mumbai (GPA: 9.68/10, ~3.87/4.0 US)"
         }
         self.experience = [
             "Tata Consultancy Services - AI/ML Intern",
@@ -70,7 +70,7 @@ class HarshTikone:
 **Major:** AI & Machine Learning  
 📍 Mumbai, India  
 🗓️ Aug 2021 - Jul 2025  
-📊 **GPA: 3.82/4.0**
+📊 **GPA: 9.68/10 (~3.87/4.0 US)**
 
 </td>
 </tr>
